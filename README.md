@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hello, I'm Subhankar!
 ⭐️ Data Analyst sharing my journey and learning all things about Data.<br>✔️ Studied Masters in Applied Data Analytics<br>✔️ Currently working in Operations at Amazon and making profitable decisions.<br>🌱 I’m currently learning about data engineering<br>🤗 Looking for jobs in Business Intelligence / Data Engineering - Anything Data and I'm in 🤞
 
 
