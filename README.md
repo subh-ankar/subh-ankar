@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<a href="#" target="_blank">
-    <img align="center" src="https://your-banner-image-url.com/banner.jpg" width="100%" alt="Subhankar - Data Analytics & Business Intelligence" />
-</a>
+
 
 <!-- Greeting -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm <span style="color:#4B79A1;">Subhankar</span></h1>
