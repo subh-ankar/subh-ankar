@@ -70,4 +70,40 @@ I’m a data-driven analytics professional with a <b>Master’s in Applied Data 
 <!-- ===================== -->
 <h3 style="color:#FFD700;">👨‍💻 Expertise</h3>
 <p align="center" style="color:#FFFFFF;">
-Python | SQL | Tableau | Excel | Data Cleaning | Data Visualization | Busin
+Python | SQL | Tableau | Excel | Data Cleaning | Data Visualization | Business Intelligence | Analytics | Operational Analytics at Scale
+</p>
+
+<!-- ===================== -->
+<!-- Projects -->
+<!-- ===================== -->
+<h2 style="color:#FFD700;">📂 Projects</h2>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h2 style="color:#FFD700;">Customer Segmentation & Sales Attribution Analysis</h2>
+      <h4 style="color:#FFFFFF;">
+        FlowSuite is a B2B SaaS company providing subscription-based business tools for e-commerce stores. 
+        This project built an end-to-end SQL + Tableau data pipeline unifying Shopify order, customer, 
+        and attribution data into a single source of truth, enabling deeper insights into customer behavior and sales performance.
+      </h4>
+      <p>
+        <img width="100px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFD700" />
+        <img width="100px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=FFD700" />
+        <img width="100px" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=FFD700" />
+      </p>
+      <a href="https://public.tableau.com/app/profile/subhankar.modumudi/viz/Tableau_final_17666914219440/Dashboard1" target="_blank">
+        <img width="120px" src="https://img.shields.io/badge/Go_To_Project-FFD700?style=for-the-badge&logo=tableau&logoColor=000000" />
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <div style="border:3px solid #FFD700; border-radius:15px; padding:5px; display:inline-block; overflow:hidden; box-shadow:0px 0px 15px rgba(255,215,0,0.5);">
+        <img src="https://res.cloudinary.com/dqnhik2ey/image/upload/v1767313852/Screenshot_2026-01-01_at_6.29.42_PM_zad4ve.png" 
+             style="max-width:100%; height:auto; display:block; border-radius:10px; transition: transform 0.3s ease;" 
+             onmouseover="this.style.transform='scale(1.05)';" 
+             onmouseout="this.style.transform='scale(1)';" 
+             alt="Customer Segmentation Project"/>
+      </div>
+    </td>
+  </tr>
+</table>
